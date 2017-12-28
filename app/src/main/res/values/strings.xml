@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab5.3LocationServices</string>
+    <string name="latitude_label">Latitude label</string>
+    <string name="longitude_label">Longitude label</string>
+
+    <string name="no_location_detected">No location is detected. Make sure location is enabled on the device.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+</resources>
